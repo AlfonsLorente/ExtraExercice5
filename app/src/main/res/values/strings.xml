@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Extra</string>
+    <string name="attack">Do you want to attack the dragon?</string>
+    <string name="yes">Attack</string>
+    <string name="no">Dont</string>
+
+</resources>
